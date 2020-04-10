@@ -1,6 +1,6 @@
 # task2-remy-chaverot
 
-BASIC PART
+<b>BASIC PART</b>
 
 Create host gallery with flask.
 
